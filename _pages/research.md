@@ -4,9 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-Working Papers
-======
-
 Peer-Reviewed Publications
 ======
 
